@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz1_content">Quiz 1: If A -> B and B -> C then A -> C?</string>
+    <string name="quiz2_content">Quiz 2: If you hard-work, You will success? </string>
+    <string name="quiz3_content">Quiz 3: 10 > 9?</string>
+    <string name="quiz1_answer">true</string>
+    <string name="quiz2_answer">true</string>
+    <string name="quiz3_answer">true</string>
+    <string name="T">True</string>
+    <string name="F">False</string>
+</resources>
